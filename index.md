@@ -2,6 +2,7 @@
 
 - [projects](/projects) 
 - [notes on javascript](/javascript-notes) 
+- [typescript-types](/typescript-types) 
 
 ## Welcome to GitHub Pages
 
