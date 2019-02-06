@@ -1,5 +1,7 @@
 ### Pages
-[projects](/projects) 
+
+- [projects](/projects) 
+- [notes on javascript](/javascript-notes) 
 
 ## Welcome to GitHub Pages
 
